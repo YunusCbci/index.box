@@ -1,0 +1,2 @@
+# index.box
+boxes
